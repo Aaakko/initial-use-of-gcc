@@ -1,0 +1,1 @@
+./run.sh customer1.txt order1.txt lineitem1.txt 2 BUILDING 1995-03-29 1995-04-27 5 BUILDING 1995-03-28 1995-04-27 2
